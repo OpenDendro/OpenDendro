@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://opendendro.github.io/opendendro/</loc>
+     <lastmod>2021-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://opendendro.github.io/opendendro/cyverse/</loc>
+     <lastmod>2021-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://opendendro.github.io/opendendro/data/</loc>
+     <lastmod>2021-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://opendendro.github.io/opendendro/itrdb/</loc>
+     <lastmod>2021-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://opendendro.github.io/opendendro/python/</loc>
+     <lastmod>2021-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://opendendro.github.io/opendendro/r/</loc>
+     <lastmod>2021-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://opendendro.github.io/opendendro/fortran/</loc>
+     <lastmod>2021-06-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
